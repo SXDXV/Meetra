@@ -1,0 +1,9 @@
+pkg/database/db.go
+
+go.sum
+go.work
+*.log
+
+.vscode/
+.idea/
+.DS_Store
